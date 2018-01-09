@@ -6,13 +6,13 @@
 }
 
 .steve {
-  font-family: abril fatface, sans-serif;
+  font-family: abril fatface, sans-serif !important;
   font-size: 2em;
   
 }
 
 .fa-facebook-square {
-  color: gray
+  color: gray;
 }
 
 .footer-link {
