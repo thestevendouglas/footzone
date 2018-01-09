@@ -1,0 +1,29 @@
+body {
+  background-image: url(../images/wallpaper.wiki-Free-Photos-Calming-HD-Download-PIC-WPB0012951.jpg)
+}
+
+
+.steve {
+  font-family: abril fatface, sans-serif;
+  font-size: 2em;
+  
+}
+
+.fa-facebook-square {
+  color: gray
+}
+
+.footer-link {
+  color: gray;
+}
+
+.fzt-quote {
+  padding-top: 4rem;
+  padding-left: 2rem;
+  padding-right: 5rem;
+  font-size: 1.75em;
+}
+
+footer {
+  background-color: gainsboro;
+}
