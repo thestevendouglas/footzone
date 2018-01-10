@@ -2,14 +2,12 @@
   background-image: url(../images/background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  
 }
 
 .steve {
   font-family: abril fatface, sans-serif;
   font-size: 1.85em;
-  text-align: center;
-  
+  text-align: center; 
 }
 
 .fa-facebook-square {
