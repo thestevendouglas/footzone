@@ -1,20 +1,22 @@
-body {
-  background-image: url(../images/wallpaper.wiki-Free-Photos-Calming-HD-Download-PIC-WPB0012951.jpg)
+.fzt-background {
+  background-image: url(../images/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
-
 
 .steve {
   font-family: abril fatface, sans-serif;
-  font-size: 2em;
-  
+  font-size: 1.85em;
+  text-align: center; 
 }
 
 .fa-facebook-square {
-  color: gray
+  color: gray;
 }
 
 .footer-link {
   color: gray;
+  font-size: .8em
 }
 
 .fzt-quote {
